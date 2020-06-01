@@ -1,0 +1,21 @@
+a, body {
+    background-color: darkslategray;
+    color: white;
+}
+
+.filter  {
+    font-weight: bold;
+}
+
+.not_filter {
+    font-style: italic;
+}
+
+.normal {
+
+}
+
+.fakeLink {
+    text-decoration: underline;
+    cursor: pointer;
+}
